@@ -11,7 +11,7 @@ Port Scanner Web Application with Django is a web-based tool designed to scan fo
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - Django
 - Nmap
 
@@ -20,7 +20,7 @@ Port Scanner Web Application with Django is a web-based tool designed to scan fo
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/port-scanner-web-app.git
+git clone https://github.com/aquacodee/port-scanner-web-app.git
 cd port-scanner-web-app
 ```
 
